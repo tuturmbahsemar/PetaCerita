@@ -45,9 +45,9 @@ window.CERITA_DATA = {
         { jenis: 'Sejarah', judul: 'Perang Diponegoro: Pangeran yang Ditangkap Saat Berunding', tayang: '2026-11-17', url: '' }] },
     '32': { ringkas: 'Dari larangan senja yang diwariskan orang tua, kebun-kebun kopi Priangan di masa tanam paksa, sampai peristiwa Rengasdengklok menjelang proklamasi.',
       petunjuk: 'Tanah yang melahirkan kata "pamali". Larangan senja dan kisah kuasa menunggu di sini.',
-      playlist: '',
+      playlist: 'https://www.youtube.com/@tuturmbahsemar/playlists',
       video: [
-        { jenis: 'Horor', judul: 'Pamali Magrib: Kenapa Dilarang Keluar Rumah Saat Senja?', tayang: '2026-11-05', url: '' },
+        { jenis: 'Horor', judul: 'Pamali Magrib: Kenapa Dilarang Keluar Rumah Saat Senja?', tayang: '2026-11-05', url: 'https://youtu.be/8n9mB_f8sbI' },
         { jenis: 'Sejarah', judul: 'Tanam Paksa: Sistem yang Memperkaya Belanda dan Menguras Desa-Desa Jawa', tayang: '2026-11-10', url: '' },
         { jenis: 'Sejarah', judul: 'Detik-Detik Sebelum Proklamasi: Peristiwa Rengasdengklok', tayang: '2026-11-24', url: '' }] },
     '61': { ringkas: 'Cerita seram dari tepi sungai. Konon, nama ibu kota daerah ini berkaitan dengan sosok yang ditakuti warga.',
