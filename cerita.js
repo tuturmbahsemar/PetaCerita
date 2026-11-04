@@ -82,8 +82,8 @@ window.CERITA_DATA = {
    Jawaban masuk ke Google Sheets milikmu. Tidak tampil di situs.
    ============================================================ */
 window.USUL_CONFIG = {
-  formUrl: '',   // contoh: 'https://docs.google.com/forms/d/e/XXXX/formResponse'
-  entries: { daerah: '', jenis: '', cerita: '', nama: '' }   // contoh: 'entry.1234567'
+  formUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSedY0FQDNvQhCXiqjNEdQE8NO8r_1ThE_z1G7-noQZIXsc2lg/formResponse',
+  entries: { nama: 'entry.1771035417', daerah: 'entry.1617939818', jenis: 'entry.97932057', cerita: 'entry.336783140' }
 };
 
 /* Usulan yang sudah kamu pilih untuk dituturkan (tampil di bawah kotak usul).
