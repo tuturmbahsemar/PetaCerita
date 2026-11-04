@@ -34,7 +34,7 @@
 window.CERITA_DATA = {
     '36': { ringkas: 'Ujung barat Jalan Raya Pos. Dari Anyer, jalan sepanjang sekitar seribu kilometer itu dimulai.',
       petunjuk: 'Sebuah jalan yang dibangun di masa kolonial bermula dari pantai ini.',
-      playlist: '',
+      playlist: 'https://www.youtube.com/@tuturmbahsemar/playlists',
       video: [{ jenis: 'Sejarah', judul: 'Jalan Raya Pos Anyer-Panarukan: Siapa yang Sebenarnya Dibayar?', tayang: '2026-11-03', url:'https://youtu.be/rePRcqudM6g?si=NeAuQ7XIZ4b46B5D' }] },
     '33': { ringkas: 'Tanah para dalang dan abdi. Di sini Semar dan Petruk dituturkan, juga perundingan yang berujung penangkapan Pangeran Diponegoro.',
       petunjuk: 'Daerah para dalang. Sosok sang pamomong akan dituturkan lebih dulu di sini.',
