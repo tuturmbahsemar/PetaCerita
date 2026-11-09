@@ -40,7 +40,7 @@ window.CERITA_DATA = {
       petunjuk: 'Daerah para dalang. Sosok sang pamomong akan dituturkan lebih dulu di sini.',
       playlist: '',
       video: [
-        { jenis: 'Mitos', judul: 'Semar: Dewa yang Menjelma Jadi Abdi, Asal-Usul Sang Pamomong', tayang: '2026-11-08', url: '' },
+        { jenis: 'Mitos', judul: 'Semar: Dewa yang Menjelma Jadi Abdi, Asal-Usul Sang Pamomong', tayang: '2026-11-08', url: 'https://youtu.be/40DCF8RrSzQ?si=Sg-rWXBHHrVjiJWE' },
         { jenis: 'Mitos', judul: 'Petruk Dadi Ratu: Lakon Wayang yang Menyindir Penguasa', tayang: '2026-11-15', url: '' },
         { jenis: 'Sejarah', judul: 'Perang Diponegoro: Pangeran yang Ditangkap Saat Berunding', tayang: '2026-11-17', url: '' }] },
     '32': { ringkas: 'Dari larangan senja yang diwariskan orang tua, kebun-kebun kopi Priangan di masa tanam paksa, sampai peristiwa Rengasdengklok menjelang proklamasi.',
