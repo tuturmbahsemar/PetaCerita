@@ -48,7 +48,7 @@ window.CERITA_DATA = {
       playlist: 'https://www.youtube.com/@tuturmbahsemar/playlists',
       video: [
         { jenis: 'Horor', judul: 'Pamali Magrib: Kenapa Dilarang Keluar Rumah Saat Senja?', tayang: '2026-11-05', url: 'https://youtu.be/8n9mB_f8sbI' },
-        { jenis: 'Sejarah', judul: 'Tanam Paksa: Sistem yang Memperkaya Belanda dan Menguras Desa-Desa Jawa', tayang: '2026-11-10', url: '' },
+        { jenis: 'Sejarah', judul: 'Tanam Paksa: Sistem yang Memperkaya Belanda dan Menguras Desa-Desa Jawa', tayang: '2026-11-10', url: 'https://youtu.be/Qb7Q5OKs9R0' },
         { jenis: 'Sejarah', judul: 'Detik-Detik Sebelum Proklamasi: Peristiwa Rengasdengklok', tayang: '2026-11-24', url: '' }] },
     '61': { ringkas: 'Cerita seram dari tepi sungai. Konon, nama ibu kota daerah ini berkaitan dengan sosok yang ditakuti warga.',
       petunjuk: 'Konon, nama ibu kota daerah ini berasal dari sosok yang ditakuti di tepi sungai.',
